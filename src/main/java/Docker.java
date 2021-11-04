@@ -1,10 +1,10 @@
 public class Docker {
 
-   String str1;
-   String str2;
+   int num1;
+   int num2;
 
-   public Docker(String str1,String str2){
-       str1=this.str1;
-       str2=this.str2;
+   public Docker(int num1,int num2){
+       num1=this.num1;
+       num2=this.num2;
    }
 }
