@@ -9,7 +9,7 @@ public class RegClass {
         b=this.b;
         str1=this.str1;
     }
-    
+
 
 
 }
